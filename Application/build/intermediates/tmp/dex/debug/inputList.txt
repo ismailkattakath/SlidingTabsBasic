@@ -1,0 +1,4 @@
+C:\Users\Izmu\Downloads\AndroidStaggeredGrid-master (3)\AndroidStaggeredGrid-master\sample\src\SlidingTabsBasic\Application\build\intermediates\classes\debug
+C:\Users\Izmu\Downloads\AndroidStaggeredGrid-master (3)\AndroidStaggeredGrid-master\sample\src\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-1425f9245e407f2ec3c53257d23fb8c9b13fb591.jar
+C:\Users\Izmu\Downloads\AndroidStaggeredGrid-master (3)\AndroidStaggeredGrid-master\sample\src\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-7d605585742d267b93f460bb22f23e424164ff8b.jar
+C:\Users\Izmu\Downloads\AndroidStaggeredGrid-master (3)\AndroidStaggeredGrid-master\sample\src\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\classes-5fee6f43ecc17f7b02d814182f3552063df0342d.jar
